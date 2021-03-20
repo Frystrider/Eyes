@@ -7,6 +7,6 @@ Load index.html
 Move mouse to see dynamic action.
 #### Future improvements:
 I would like to revisit this and implement more interaction. 
-Ex. CHange eye colors on screen click.
+Ex. Change eye colors on screen click.
 ##### Liscense:
 MIT starter code
